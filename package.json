@@ -1,10 +1,10 @@
 {
   "name": "portafoliojose",
   "version": "1.0.0",
-  "main": "appprincipal.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "appprincipal.js"
+    "start": "node appprincipal.js"
   },
   "keywords": [],
   "author": "",
